@@ -2,9 +2,9 @@
 Logikcull Engineer Greg is a self proclaimed hipster with a burgeoning record collection growing out of control.
 His current pen and paper approach to managing the collection isn’t scaling well and
 he needs a solution to help him manage his pride and joy.
-
+# Original Assignment
 ## Your mission, if you choose to accept it, is to build a Javascript web app
-* Greg to manage his records. Fortunately, Greg keeps track of his records in JSON format
+* Greg wants to manage his records. Fortunately, Greg keeps track of his records in JSON format
     - [here](https://gist.github.com/seanders/df38a92ffc4e8c56962e51b6e96e188f).
 * Use whatever technology you are comfortable with and feel free to make it as polished or minimalist as you’d like (according to your taste).
 * If you aren’t familiar with records, he needs to track/store the following fields per-record (at a minimum):
@@ -19,6 +19,13 @@ he needs a solution to help him manage his pride and joy.
 * A user must be able to edit and update all the fields on an album, including the artists associated with the album. Don't worry about persisting edits on the server. 1) As a user, I should be able to update the Artist's name. Meaning if I update an Artist's name on one record, it should be updated across all records associated with that artist. 1) As a user, I want to filter my albums using a search query. The results should update as I type.
     * Add any bells and whistles you think would be helpful.
 
+## Build a CRUD based album asset tracker that allows users to add albums, list, update and delete records
+## if time allows, enable the user to mark them as sold or trashed, identify damage, list them and more.cd ..
+##
+
+
+
+//Research on getting album covers...
 //Application: Clever Content Software's App
 //Default application created on signup.
 //API Key
