@@ -23,6 +23,10 @@ he needs a solution to help him manage his pride and joy.
 ## if time allows, enable the user to mark them as sold or trashed, identify damage, list them and more.cd ..
 ##
 
+## Resources
+* [Rails Starter for Gatsby] https://blog.heroku.com/a-rock-solid-modern-web-stack
+
+
 
 
 //Research on getting album covers...
